@@ -5,10 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
 
-- 🔭 I’m currently working on **CoolProject**
-- 🌱 I’m currently learning **React, Docker, and Spring Boot**
-- 👯 I’m looking to collaborate on **Open Source projects**
-- 💬 Ask me about **typeScript, Node, APIs, and JAVA**
+- 📚 currently learning **React and Docker**
+- 🤝 I’m looking to collaborate on **Open Source projects**
+- 💼 Ask me about **typeScript, Node, APIs, and JAVA**
 
 ---
 
