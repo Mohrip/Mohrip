@@ -9,9 +9,8 @@
 
 <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; margin-top: 20px;">
 
-- 📚 Currently learning **React and Docker**
 - 🤝 I’m looking to collaborate on **Open Source projects**
-- 💼 Ask me about **TypeScript, Node, APIs, and Java**
+- 💼 Ask me about **TypeScript, APIs, and Java**
 
 </div>
 
@@ -33,11 +32,4 @@
 
 </div>
 
----
 
-<div style="background-color: #e0e7ff; padding: 20px; border-radius: 10px; margin-top: 20px;">
-
-### 📫 Let's Connect!
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=firefox&logoColor=white)](https://mohpro.vercel.app/)
-
-</div>
