@@ -1,21 +1,19 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">A passionate developer from Your Country</h3>
+<h1 align="center">I'm Mohammed Alsaif</h1>
+<h3 align="center">Helping ideas go from “what if” to “it’s live”</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
 
 - 🔭 I’m currently working on **CoolProject**
-- 🌱 I’m currently learning **React, Go, and Rust**
-- 👯 I’m looking to collaborate on **Open Source**
-- 💬 Ask me about **JavaScript, Node, APIs**
-- 📫 How to reach me: **your@email.com**
-- ⚡ Fun fact: *I once coded for 12 hours straight... fueled by iced coffee!*
+- 🌱 I’m currently learning **React, Docker, and Spring Boot**
+- 👯 I’m looking to collaborate on **Open Source projects**
+- 💬 Ask me about **typeScript, Node, APIs, and JAVA**
 
 ---
 
 ### 🧰 Tech Stack
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,tailwind,git,github,figma" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,tailwind,git,github,java,spring boot,docker,sql,aws" />
 
 ---
 
