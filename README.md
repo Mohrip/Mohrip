@@ -19,7 +19,7 @@
 <div style="background-color: #e0e7ff; padding: 20px; border-radius: 10px; margin-top: 20px;">
 
 ### 🧰 Tech Stack
-<img src="https://skillicons.dev/icons?i=ts,nodejs,react,html,css,git,github,java,docker,aws,kafka,mongodb,nestjs,nginx,mysql" />
+<img src="https://skillicons.dev/icons?i=ts,nodejs,react,html,css,git,java,docker,aws,kafka,mongodb,nestjs,nginx,mysql" />
 
 </div>
 
