@@ -14,12 +14,6 @@
 
 </div>
 
-<div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; margin-top: 20px;">
-
-- 🤝 I’m looking to collaborate on **Open Source projects**
-- 💼 Ask me about **TypeScript, APIs, and Java**
-
-</div>
 
 ---
 
