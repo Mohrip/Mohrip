@@ -69,9 +69,4 @@
 </div>
 
 
-###  Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/mohrip/mohrip/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
