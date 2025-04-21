@@ -44,6 +44,8 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
 </p>
 
+---
+
 <div style="background-color: #e0e7ff; padding: 20px; border-radius: 10px; margin-top: 20px;">
 
   ### 📚 Most Used Languages
