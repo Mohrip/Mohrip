@@ -14,7 +14,6 @@
 
 ---
 
-<div style="background-color: #e0e7ff; padding: 20px; border-radius: 10px; margin-top: 20px;">
 
 ### 🧰 Tech Stack
 
