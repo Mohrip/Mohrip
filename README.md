@@ -6,7 +6,7 @@
     I'm Mohammed Alsaif
   </h1>
   <h3 align="center" style="background-color: #d0eaff; padding: 10px; border-radius: 10px;">
-    Full-stack developer helping ideas go from “what if” to “it’s live”
+    building software
   </h3>
 
 </div>
