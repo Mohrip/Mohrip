@@ -1,6 +1,6 @@
 <div style="background-color: #f0f0f0; padding: 30px; border-radius: 10px;">
 
-  ## Hi there 👋
+  ## Hi there 
 
   <h1 align="center" style="background-color: #d0eaff; padding: 20px; border-radius: 10px;">
     I'm Mohammed Alsaif
