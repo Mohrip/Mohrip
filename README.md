@@ -23,7 +23,6 @@
     <a href="https://nestjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" /></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
     <a href="https://www.https://spring.io/.com/" target="_blank"><img src="https://skillicons.dev/icons?i=spring" alt="spring" /></a>
-
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" alt="C#" /></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
