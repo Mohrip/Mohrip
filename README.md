@@ -31,6 +31,8 @@
   <a href="https://nginx.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a> 
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+    <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+
 
 </p>
 
