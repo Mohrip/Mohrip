@@ -38,6 +38,13 @@
 
 
 
+<div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; margin-top: 20px; text-align: center;">
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=mohrip&label=Profile%20views&color=0e75b6&style=flat" alt="mohrip" />
+  </p>
+
+</div>
 
 
 <div style="background-color: #e0e7ff; padding: 20px; border-radius: 10px; margin-top: 20px;">
