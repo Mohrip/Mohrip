@@ -27,7 +27,7 @@
   <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
   <a href="https://www.jenkins.io/" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" /></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
-  <a href="https://www.rabbitmq.com//" target="_blank"><img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitmq" /></a>
+  <a href="https://https://kafka.apache.org///" target="_blank"><img src="https://skillicons.dev/icons?i=kafka" alt="kafka" /></a>
   <a href="https://nginx.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a> 
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
