@@ -24,7 +24,7 @@
   <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
 <a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring" alt="spring" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
-  <a href="https://www.jenkins.io/" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" /></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
   <a href="https://https://kafka.apache.org///" target="_blank"><img src="https://skillicons.dev/icons?i=kafka" alt="kafka" /></a>
   <a href="https://nginx.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /></a>
