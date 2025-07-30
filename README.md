@@ -6,8 +6,7 @@
     I'm Mohammed Alsaif
   </h1>
   <h3 align="center" style="background-color: #d0eaff; padding: 10px; border-radius: 10px;">
-    building software
-  </h3>
+Software Engineer  </h3>
 
 </div>
 
