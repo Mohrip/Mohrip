@@ -44,20 +44,8 @@ Software Engineer  </h3>
 
 ---
 
-<div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; margin-top: 20px;">
 
-  <h3>📊 Contributions</h3>
-
-  <p>
-    <img src="https://img.shields.io/badge/Contributions-1000%2B-brightgreen" alt="Contributions Badge" />
-  </p>
-
-
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohrip&theme=default" alt="Summary Card" />
-  </p>
-
-</div>
+  
 
 
 
