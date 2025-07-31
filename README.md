@@ -47,10 +47,29 @@ Software Engineer  </h3>
 
 <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; margin-top: 20px;">
 
-### 📊 Contributions
-![Contributions](https://img.shields.io/badge/Contributions-1000+-brightgreen)
+  <h3>📊 Contributions</h3>
+
+  <!-- Static Badge -->
+  <p>
+    <img src="https://img.shields.io/badge/Contributions-1000%2B-brightgreen" alt="Contributions Badge" />
+  </p>
+
+  <!-- GitHub Stats Card -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mohrip&show_icons=true&theme=default" alt="GitHub Stats" />
+  </p>
+
+  <!-- GitHub Contribution Calendar -->
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohrip&theme=default" alt="GitHub Streak" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohrip&theme=default" alt="Summary Card" />
+  </p>
 
 </div>
+
 
 
 
