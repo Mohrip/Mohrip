@@ -9,6 +9,8 @@
 Software Engineer  </h3>
 
 </div>
+- 📫 How to reach me? **moh.aalsaif9@gmail.com**
+
 
 <div style="background-color: #e0e7ff; padding: 20px; border-radius: 10px; margin-top: 20px;">
 
@@ -37,7 +39,6 @@ Software Engineer  </h3>
 
 
 <div style="background-color: #e0e7ff; padding: 20px; border-radius: 10px; margin-top: 20px;">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohrip&label=Profile%20views&color=0e75b6&style=flat" alt="mohrip" /> </p>
 
 
 
