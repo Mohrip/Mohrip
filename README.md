@@ -37,6 +37,8 @@ Software Engineer  </h3>
 
 
 <div style="background-color: #e0e7ff; padding: 20px; border-radius: 10px; margin-top: 20px;">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohrip&label=Profile%20views&color=0e75b6&style=flat" alt="mohrip" /> </p>
+
 
 
 
