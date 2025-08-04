@@ -10,9 +10,8 @@ Software Engineer  </h3>
 
 </div>
 
- <p align="center" style="margin-top: 20px;">
-    ![Visitor Count](https://profile-counter.glitch.me/mohammed-alsaif/count.svg)
-  </p>
+- 📫 How to reach me? [moh.aalsaif9@gmail.com](mailto:moh.aalsaif9@gmail.com)
+
 
 <div style="background-color: #e0e7ff; padding: 20px; border-radius: 10px; margin-top: 20px;">
 
