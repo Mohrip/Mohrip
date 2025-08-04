@@ -6,13 +6,9 @@
     I'm Mohammed Alsaif
   </h1>
 
-  <p align="center" style="background-color: #d0eaff; padding: 10px 20px; border-radius: 10px; font-style: italic; max-width: 600px; margin: 0 auto;">
-    A passionate software engineer from Saudi Arabia, specializing in scalable backend systems and cloud computing.  
-    Always eager to learn new technologies and contribute to open source.
-  </p>
-
   <h3 align="center" style="background-color: #d0eaff; padding: 10px; border-radius: 10px;">
-    Software Engineer  
+    A passionate Software Engineer from Saudi Arabia, specializing in scalable backend systems and cloud computing.  
+    Always eager to learn new technologies and contribute to open source
   </h3>
 
 </div>
