@@ -42,6 +42,11 @@ Software Engineer  </h3>
 
 </div>
 
+
+<p align="center" style="margin-top: 10px;">
+    ![Visitor Count](https://profile-counter.glitch.me/mohrip/count.svg)
+  </p>
+
 ---
 
 
