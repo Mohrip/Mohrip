@@ -8,7 +8,7 @@
 
   <h3 align="center" style="background-color: #d0eaff; padding: 10px; border-radius: 10px;">
     A passionate Software Engineer from Saudi Arabia, specializing in scalable backend systems and cloud computing.  
-    Always eager to learn new technologies and contribute to open source
+    Always eager to learn new technologies and contribute to open source projects
   </h3>
 
 </div>
