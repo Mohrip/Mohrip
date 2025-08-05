@@ -1,4 +1,3 @@
-check:
 
 <div style="background-color: #f0f0f0; padding: 30px; border-radius: 10px;">
 
